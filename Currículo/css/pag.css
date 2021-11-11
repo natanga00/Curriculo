@@ -1,0 +1,66 @@
+*
+{
+    margin: 5;
+    padding: 5;
+}
+
+body{
+    background-image: url(/bckg.jpg);
+    background-size: cover;
+}
+
+h1{
+    margin-top: auto;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    color: rgb(0, 0, 0);
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0cm;
+    width: 22%;
+    height: 22%;
+}
+
+p, p1{
+    color:azure;
+    margin-top: 1%;
+    display: grid;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-style: italic;
+    font-size: 200%;
+    color:rgb(250, 0, 0)
+}
+
+p2, p4, p6, p8, p11{
+    margin-top: 1%;
+    color: aliceblue;
+    font-size: 120%;
+    font-family: 'Courgette', cursive;
+    text-align: center;
+    display: grid;
+}
+
+p9{
+    margin-top: -2%;
+    color: aliceblue;
+    font-size: 120%;
+    font-family: 'Courgette', cursive;
+    text-align: center;
+    display: grid;
+}
+
+p3, p5, p7, p10{
+    color:azure;
+    margin-top: 0.5%;
+    display: grid;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-style: italic;
+    font-size: 200%;
+    color:rgb(250, 0, 0)
+}
